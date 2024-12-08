@@ -20,7 +20,7 @@ My program solves both part 1 and part 2 of the challenge involving location IDs
 ## Installation
 ```bash
 # Clone the repository
-git clone
+git clone https://github.com/jamesfulreader/historian-histeria
 cd historian-histeria
 
 # Build the project
